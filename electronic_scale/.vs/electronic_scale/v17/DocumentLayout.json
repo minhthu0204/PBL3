@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\electronic_scale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|d:\\visual studio\\electronic_scale\\electronic_scale\\salemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\salemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\formcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\formcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\salemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\salemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\formupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\formupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\dulieu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\dulieu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\formcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\formcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|D:\\Visual Studio\\electronic_scale\\electronic_scale\\formproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409E8A2A-06C8-4CEC-82EB-46F1902B3099}|electronic_scale\\electronic_scale.csproj|solutionrelative:electronic_scale\\formproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 715,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormControl.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormControl.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FormControl.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormControl.cs",
+              "RelativeToolTip": "electronic_scale\\FormControl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:25:33.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormProduct.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormProduct.Designer.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FormProduct.Designer.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormProduct.Designer.cs",
+              "RelativeToolTip": "electronic_scale\\FormProduct.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:46:11.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\Report1.rdlc",
+              "RelativeDocumentMoniker": "electronic_scale\\Report1.rdlc",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\Report1.rdlc [Design]",
+              "RelativeToolTip": "electronic_scale\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-11T10:33:09.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dulieu1.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\Dulieu1.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\Dulieu1.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\Dulieu1.cs",
+              "RelativeToolTip": "electronic_scale\\Dulieu1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:15:03.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmInhoadon.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FrmInhoadon.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FrmInhoadon.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FrmInhoadon.cs",
+              "RelativeToolTip": "electronic_scale\\FrmInhoadon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:13:28.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmInhoadon.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FrmInhoadon.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FrmInhoadon.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FrmInhoadon.cs [Design]",
+              "RelativeToolTip": "electronic_scale\\FrmInhoadon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:30:38.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormUpdate.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormUpdate.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FormUpdate.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormUpdate.cs [Design]",
+              "RelativeToolTip": "electronic_scale\\FormUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:30:35.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormHome.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormHome.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FormHome.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormHome.cs [Design]",
+              "RelativeToolTip": "electronic_scale\\FormHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:30:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProduct.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormProduct.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FormProduct.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormProduct.cs",
+              "RelativeToolTip": "electronic_scale\\FormProduct.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:21:19.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormProduct.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormProduct.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FormProduct.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormProduct.cs [Design]",
+              "RelativeToolTip": "electronic_scale\\FormProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:21:16.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormControl.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormControl.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\FormControl.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\FormControl.cs [Design]",
+              "RelativeToolTip": "electronic_scale\\FormControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:21:14.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleManager.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\SaleManager.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\SaleManager.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\SaleManager.cs [Design]",
+              "RelativeToolTip": "electronic_scale\\SaleManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:15:41.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleManager.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\SaleManager.cs",
+              "RelativeDocumentMoniker": "electronic_scale\\SaleManager.cs",
+              "ToolTip": "D:\\Visual Studio\\electronic_scale\\electronic_scale\\SaleManager.cs",
+              "RelativeToolTip": "electronic_scale\\SaleManager.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAEwJ8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:14:10.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

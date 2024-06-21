@@ -1,0 +1,162 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+004-005 @WRITE_PROGRAM_MEMORY8.P2
+008     PSP_DATA
+015     CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B     CCP_2
+01B     CCP_2_LOW
+01C     CCP_2_HIGH
+020     @TRIS_C
+021     donvi
+022     chuc
+023     tram
+024     nghin
+025-026 KHOI_LUONG
+027-028 weigh
+029-02A @sprintf_string
+02B-02E MAIN.KHOI_LUONG
+02F-032 ReadCount.count
+02F     @PSTRINGCN7_728.P1
+02F     lcd_init.i
+02F     @PRINTF_D_728.P1
+02F     @PRINTF_D_9600_62_63.P2
+02F     MAIN.@SCRATCH1
+02F     @PSTRINGC7_728.@SCRATCH1
+030     @PRINTF_D_9600_62_63.P1
+030     @PRINTF_D_728.P2
+030-033 lcd_init.LCD_INIT_STRING
+030     MAIN.@SCRATCH2
+030     @PSTRINGC7_728.@SCRATCH2
+030     @PSTRINGCN7_728.@SCRATCH1
+031     MAIN.@SCRATCH3
+031     @PSTRINGC7_728.@SCRATCH3
+031     @PSTRINGCN7_728.@SCRATCH2
+031     @PRINTF_D_728.@SCRATCH1
+031     @PRINTF_D_9600_62_63.@SCRATCH1
+032     MAIN.@SCRATCH4
+032     @PSTRINGC7_728.@SCRATCH4
+032     @PSTRINGCN7_728.@SCRATCH3
+032     @PRINTF_D_728.@SCRATCH2
+032     @PRINTF_D_9600_62_63.@SCRATCH2
+033     ReadCount.i
+033     MAIN.@SCRATCH5
+033     @PSTRINGCN7_728.@SCRATCH4
+033     @PRINTF_D_728.@SCRATCH3
+033     @PRINTF_D_9600_62_63.@SCRATCH3
+034     ReadCount.convert_1
+034     lcd_init.@SCRATCH1
+034     MAIN.@SCRATCH6
+034     @PRINTF_D_728.@SCRATCH4
+034     @PRINTF_D_9600_62_63.@SCRATCH4
+035     ReadCount.convert_2
+035     lcd_putc.c
+035     @DIV88.P1
+035     MAIN.@SCRATCH7
+036     @DIV88.P1
+036     @delay_ms1.P2
+036     lcd_gotoxy.x
+036     ReadCount.convert_3
+036     MAIN.@SCRATCH8
+037-03A @MULFF.P1
+037-03A @DTOF.P2
+037     lcd_gotoxy.y
+037-03A @DIV3232.P1
+037-03A @FTOSD.P2
+037     ReadCount.@SCRATCH1
+037     @DIV88.@SCRATCH1
+038     lcd_gotoxy.address
+039     lcd_gotoxy.@SCRATCH1
+03A     lcd_send_byte.address
+03B     lcd_send_byte.n
+03B-03E @DIV3232.P1
+03B-03E @MULFF.P2
+03B     @FTOSD.@SCRATCH1
+03C     lcd_read_byte.low
+03C     lcd_send_byte.@SCRATCH1
+03D     lcd_read_byte.high
+03D     lcd_send_nibble.n
+03E     lcd_read_nibble.n
+03E     lcd_read_byte.@SCRATCH1
+03F     lcd_read_nibble.@SCRATCH1
+03F     @MULFF.@SCRATCH1
+03F     @DIV3232.@SCRATCH1
+040     @MULFF.@SCRATCH2
+040     @DIV3232.@SCRATCH2
+041     @MULFF.@SCRATCH3
+041     @DIV3232.@SCRATCH3
+042     @MULFF.@SCRATCH4
+042     @DIV3232.@SCRATCH4
+043     @MULFF.@SCRATCH5
+043     @DIV3232.@SCRATCH5
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+09C.6   C1OUT
+09C.7   C2OUT
+10D-10E @WRITE_PROGRAM_MEMORY8.P1
+10D-10E @READ_PROGRAM_MEMORY8.P2
+
+ROM Allocation:
+000004  @const762.call
+000009  @const771.call
+000014  @delay_ms1
+000029  lcd_send_nibble
+000058  lcd_read_nibble
+000089  lcd_send_byte
+000093  lcd_read_byte
+0000F1  lcd_init
+00013D  lcd_gotoxy
+00014F  lcd_putc
+00017B  @PSTRINGC7_728
+0001D3  ReadCount
+000228  @DTOF
+000252  @MULFF
+0002CE  @FTOSD
+0002ED  @DIV3232
+00033C  @PSTRINGCN7_728
+000395  @DIV88
+0003AA  @PRINTF_D_728
+000401  @PRINTF_D_9600_62_63
+00045C  MAIN
+00045C  @cinit1
+000472  @cinit2
+
+Project Directory:
+    D:\Lap trinh PIC\FinalPBL3\
+
+Project Files:
+    main.c                                                  [13-Jun-24 22:54  CRC=FD649940]
+    main.h                                                  [13-Jun-24 22:53  CRC=00000000]
+    C:\Program Files (x86)\PICC\Devices\16F877A.h           [21-Oct-22 11:02  CRC=6A06E202]
+    C:\Program Files (x86)\PICC\Drivers\lcd.c               [22-Feb-16 10:05  CRC=D1A6378A]
+
+Source signature=0AB7EA56
+Program memory checksum=0000
+Hex file CRC=BDF4
+
+Units:
+    D:\Lap trinh PIC\FinalPBL3\main (main)
+
+Compiler Settings:
+    Processor:      PIC16F877A
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:   CCS5
+
+Output Files:
+    XREF file:   main.xsym
+    Errors:      main.err
+    Ext Symbols: main.esym
+    INHX8:       main.hex
+    Symbols:     main.sym
+    List:        main.lst
+    Debug/COFF:  main.cof
+    Project:     main.ccspjt
+    Call Tree:   main.tre
+    Statistics:  main.STA
